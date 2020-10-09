@@ -6,7 +6,20 @@ In this repository you will find all the files we will need during the workshop,
 ## Session 1
 
 ### DRPMBE_Session1.html
-This tutorial covers the content for the first session that will take place on October 14, 2020.
+This tutorial covers the content for the first session that will take place on October 14, 2020:
+- Installing R and RStudio
+- Basic communication with R
+- Managing a work session
+- Getting help
+- R functions and packages
 
 ### DRPMBE_Exerc1.html
 In this file, you will find a short exercise on the contents addressed in the first sessions.
+
+## Session 1
+
+### DRPMBE_Session2.html
+This tutorial covers the content for the second session that will take place on October 14, 2020:
+- Data structures in R
+- Vectors
+- Matrices
