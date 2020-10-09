@@ -16,7 +16,7 @@ This tutorial covers the content for the first session that will take place on O
 ### DRPMBE_Exerc1.html
 In this file, you will find a short exercise on the contents addressed in the first sessions.
 
-## Session 1
+## Session 2
 
 ### DRPMBE_Session2.html
 This tutorial covers the content for the second session that will take place on October 14, 2020:
